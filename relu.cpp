@@ -1,5 +1,5 @@
 /*
- * sigmoid.cpp
+ * .cpp
  *
  *  Created on: Oct 18, 2014
  *      Author: manoj
